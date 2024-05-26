@@ -28,7 +28,7 @@ Users should be able to:
 
 ### What I learned
 
-Component Building and Tailwind application
+Building components and implementing Tailwind
 
 ```js
 type Props = {
